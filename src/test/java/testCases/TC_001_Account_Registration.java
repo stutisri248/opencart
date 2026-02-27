@@ -39,38 +39,7 @@ public class TC_001_Account_Registration extends baseClass {
 			p = new Properties();
 			p.load(new FileReader(".//src//test//resources//config.properties"));
 			logger = LogManager.getLogger(this.getClass());
-			if(p.getProperty("execution_env").equalsIgnoreCase("remote")){
-				DesiredCapabilities capabilities =  new DesiredCapabilities();
-				if(OS.equalsIgnoreCase("windows")) {
-					capabilities.setPlatform(Platform.WIN11);
-				}else if(OS.equalsIgnoreCase("mac")) {
-					capabilities.setPlatform(Platform.MAC);
-				}
-				switch(browser.toLowerCase()) {
-				case "chrome": capabilities.setBrowserName("chrome");
-				break;
-				case "edge": capabilities.setBrowserName("MicrosoftEdge");
-				break;
-				}
-				driver = new RemoteWebDriver(new URL("http://192.168.18.41:4444"),capabilities);
-			}
-			if(p.getProperty("execution_env").equalsIgnoreCase("remote")){
-				DesiredCapabilities capabilities =  new DesiredCapabilities();
-				if(OS.equalsIgnoreCase("windows")) {
-					capabilities.setPlatform(Platform.WIN11);
-				}else if(OS.equalsIgnoreCase("mac")) {
-					capabilities.setPlatform(Platform.MAC);
-				}
-				switch(browser.toLowerCase()) {
-				case "chrome": capabilities.setBrowserName("chrome");
-				break;
-				case "edge": capabilities.setBrowserName("MicrosoftEdge");
-				break;
-				}
-				driver = new RemoteWebDriver(new URL("http://192.168.18.41:4444"),capabilities);
-			}
 		   driver = new ChromeDriver(); 
-			driver = new ChromeDriver();
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 			driver.get(p.getProperty("appURL"));
 			driver.manage().window().maximize();
