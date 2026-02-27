@@ -1,0 +1,55 @@
+23:53:09:254[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:258[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:258[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:258[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:258[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:259[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:262[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:264[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:265[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:266[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:266[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:268[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:268[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:269[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+23:53:09:270[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:271[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:271[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:272[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:272[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:272[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:53:09:272[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:53:09:278[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\Stuti\AppData\Local\Temp\testng-eclipse-2068393203\testng-customsuite.xml
+
+23:53:09:316[main]INFO org.testng.internal.Utils-[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+23:53:09:458[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.jq.Main@3fa2213: 58 ms
+23:53:09:465[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.FailedReporter@60641ec8: 7 ms
+23:53:09:472[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.XMLReporter@62f4ff3b: 7 ms
+23:53:09:481[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@10c626be: 9 ms
+23:53:09:486[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@183e8023: 5 ms
+23:53:09:487[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.internal.ExitCodeListener@45efc20d: 0 ms
+23:53:43:695[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\Stuti\eclipse-workspace\opencart\crossBrowserTesting.xml
+
+23:53:46:860[main]INFO testCases.TC_001_Account_Registration-***Starting test case***
+23:53:52:256[main]ERRORtestCases.TC_001_Account_Registration-TestFailed
+23:53:59:453[main]INFO testCases.TC_001_Account_Registration-***Starting test case***
+23:54:01:554[main]ERRORtestCases.TC_001_Account_Registration-TestFailed
+23:54:30:000[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\Stuti\eclipse-workspace\opencart\crossBrowserTesting.xml
+
+23:54:33:831[main]INFO testCases.TC_001_Account_Registration-***Starting test case***
+23:54:33:933[main]INFO testCases.TC_001_Account_Registration-***Clicking my account***
+23:54:34:680[main]INFO testCases.TC_001_Account_Registration-***click register**
+23:54:34:684[main]INFO testCases.TC_001_Account_Registration-***giving test input***
+23:54:36:055[main]INFO testCases.TC_001_Account_Registration-***Validating output***
+23:54:36:057[main]INFO testCases.TC_001_Account_Registration-Test Completed
+23:54:38:707[main]INFO testCases.TC_001_Account_Registration-***Starting test case***
+23:54:38:830[main]INFO testCases.TC_001_Account_Registration-***Clicking my account***
+23:54:39:768[main]INFO testCases.TC_001_Account_Registration-***click register**
+23:54:39:769[main]INFO testCases.TC_001_Account_Registration-***giving test input***
+23:54:41:075[main]INFO testCases.TC_001_Account_Registration-***Validating output***
+23:54:41:075[main]INFO testCases.TC_001_Account_Registration-Test Completed
+23:54:48:504[main]INFO testCases.TC_001_Account_Registration-***Starting test case***
+23:54:48:623[main]INFO testCases.TC_001_Account_Registration-***Clicking my account***

@@ -1,0 +1,40 @@
+03:07:37:419[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+03:07:37:422[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+03:07:37:424[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+03:07:37:424[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+03:07:37:424[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+03:07:37:424[main]INFO org.testng.internal.Utils-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+03:07:37:447[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\Stuti\AppData\Local\Temp\testng-eclipse--767032471\testng-customsuite.xml
+
+03:07:40:583[main]INFO org.testng.internal.Utils-[Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+03:07:40:620[main]INFO testCases.TC_001_Account_Registration-***Starting test case***
+03:07:40:721[main]INFO testCases.TC_001_Account_Registration-***Clicking my account***
+03:07:41:108[main]INFO testCases.TC_001_Account_Registration-***click register**
+03:07:41:111[main]INFO testCases.TC_001_Account_Registration-***giving test input***
+03:07:42:640[main]INFO testCases.TC_001_Account_Registration-***Validating output***
+03:07:42:641[main]INFO testCases.TC_001_Account_Registration-Test Completed
+03:07:42:714[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.jq.Main@459cfcca: 41 ms
+03:07:42:714[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.FailedReporter@2c6aed22: 0 ms
+03:07:42:718[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.XMLReporter@58b71ceb: 4 ms
+03:07:42:722[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@1744a475: 3 ms
+03:07:42:726[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6a48a7f3: 4 ms
+03:07:42:726[main]INFO org.testng.internal.Utils-[TestNG] Time taken by org.testng.internal.ExitCodeListener@3f985a86: 0 ms
+23:00:27:200[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\Stuti\eclipse-workspace\opencart\crossBrowserTesting.xml
+
+23:02:27:153[main]INFO org.testng.internal.Utils-[TestNG] Running:
+  C:\Users\Stuti\eclipse-workspace\opencart\crossBrowserTesting.xml
+
+23:10:41:281[main]INFO testCases.TC002_LoginTest-***Starting test case***
+23:10:41:421[main]INFO testCases.TC002_LoginTest-***Clicking my account***
+23:10:41:746[main]INFO testCases.TC002_LoginTest-***click login**
+23:10:41:749[main]INFO testCases.TC002_LoginTest-***giving test input***
+23:14:31:521[main]INFO testCases.TC002_LoginTest-***Starting test case***
+23:14:31:748[main]INFO testCases.TC002_LoginTest-***Clicking my account***
+23:14:32:133[main]INFO testCases.TC002_LoginTest-***click login**
+23:14:32:141[main]INFO testCases.TC002_LoginTest-***giving test input***
+23:15:49:582[main]INFO testCases.TC002_LoginTest-***Starting test case***
+23:15:49:784[main]INFO testCases.TC002_LoginTest-***Clicking my account***
+23:15:50:146[main]INFO testCases.TC002_LoginTest-***click login**
+23:15:50:151[main]INFO testCases.TC002_LoginTest-***giving test input***
